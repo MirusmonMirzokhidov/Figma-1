@@ -1,0 +1,10 @@
+body{
+    background-image: url("./images/preview.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.m{
+    position: absolute;
+   left: 580px;
+}
